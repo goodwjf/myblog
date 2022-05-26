@@ -1,0 +1,3 @@
+[submodule "themes/geek"]
+	path = themes/geek
+	url = https://github.com/sanjinhub/hexo-theme-geek
